@@ -1,0 +1,13 @@
+.btn {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: rgb(168, 190, 231);
+}
+
+body {
+    color: rgb(168, 190, 231);
+    text-align: center;
+    background-image: url('https://d1yn1kh78jj1rr.cloudfront.net/image/preview/BqEQWS4vZj60e3dy5/storyblocks-screen-movie-cinema-vector-cinema-hall-with-blue-seats-illustration_HRkiTNaFf_SB_PM.jpg');
+    background-size: 100% 1000px;
+    margin-top: 20px;
+}
